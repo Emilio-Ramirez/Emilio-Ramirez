@@ -28,6 +28,6 @@ I am a software development student <img src="https://media.giphy.com/media/WUlp
 
 - 🤺: Strengthening my technical skills through CodeWars.
 
-- :: In my free time, I like to read and go rock climbing as a way to continue developing important skills and abilities beyond the workplace.
+- 🦁: In my free time, I like to read and go rock climbing as a way to continue developing important skills and abilities beyond the workplace.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-EmilioRM-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-ramirez-921a1a170/)
