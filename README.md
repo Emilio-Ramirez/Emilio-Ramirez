@@ -1,12 +1,14 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
-<div id="badges">
-  <a href="www.linkedin.com/in/emilio-ramirez-921a1a170](https://www.linkedin.com/in/emilio-ramirez-921a1a170/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhNmY5MzQyMWY0ZDUwODU4N2IyMmM1Mjg4MDk0ZDdhODlhNDJjZSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+
+  <div id="badges">
+    <a href="www.linkedin.com/in/emilio-ramirez-921a1a170](https://www.linkedin.com/in/emilio-ramirez-921a1a170/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=your-github-emilio-ramirez-921a1a170&style=flat-square&color=blue" alt=""/>
+    </div>
+  </div>
 </div>
 <!--
 **Emilio-Ramirez/Emilio-Ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
