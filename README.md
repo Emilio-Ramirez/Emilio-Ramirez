@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFhNmY5MzQyMWY0ZDUwODU4N2IyMmM1Mjg4MDk0ZDdhODlhNDJjZSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
   <div id="badges">
     <a href="www.linkedin.com/in/emilio-ramirez-921a1a170](https://www.linkedin.com/in/emilio-ramirez-921a1a170/">
@@ -47,5 +47,6 @@ I am a software development student <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emilio-ramirez-921a1a170&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emilio-Ramirez&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio-Ramirez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
