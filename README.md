@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/emilio-ramirez-921a1a170](https://www.linkedin.com/in/emilio-ramirez-921a1a170/">
+    <a href="www.linkedin.com/in/emilio-ramirez-921a1a170](https://www.linkedin.com/in/emilio-ramirez-921a1a170/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <div>
